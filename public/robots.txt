@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://avisec-7896c7b8.zappy5.app/sitemap.xml
